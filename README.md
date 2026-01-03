@@ -16,15 +16,11 @@ This project is a comprehensive data analysis of Spotify's global top tracks, de
 
 ### 1. Audio Feature Analysis
 *Analyzes the correlation between musical attributes like Energy, Valence, and Danceability in top-performing songs.*
-![Insert Screenshot of Page 1 Here](path/to/screenshot1.png)
+![Page 1](Page_1.jpg)
 
 ### 2. Historical Trends & BPM Shift
 *Visualizes how listener preferences and song tempos (BPM) have evolved over the years.*
-![Insert Screenshot of Page 2 Here](path/to/screenshot2.png)
-
-### 3. Cross-Platform Performance
-*Compares song popularity across Spotify vs. other platforms to measure true global reach.*
-![Insert Screenshot of Page 3 Here](path/to/screenshot3.png)
+![Page 2](Page_2.jpg)
 
 ---
 
@@ -47,18 +43,15 @@ This project is a comprehensive data analysis of Spotify's global top tracks, de
 
 ## 🚀 How to Use
 1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/Spotify-Data-Analysis.git](https://github.com/YourUsername/Spotify-Data-Analysis.git)
-    ```
 2.  **View the Dashboard:**
     * Open `Spotify Data Dashboard.pbix` in **Power BI Desktop**.
     * *Note: Screenshots are provided above for quick viewing without software installation.*
 3.  **Run the ETL Script:**
-    * Navigate to the `scripts/` folder and run `data_extraction.py` to see the extraction logic.
+    * Run `Spotify.py` to see the extraction logic.
 
 ---
 
 ## 📬 Contact
 * **Megh Modi**
-* [LinkedIn Profile](Insert Your LinkedIn Link)
+* [LinkedIn Profile]((https://www.linkedin.com/in/megh-modi-79764122b))
 * [Email](mailto:meghmodi2004@gmail.com)
