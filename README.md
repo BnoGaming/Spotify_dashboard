@@ -15,11 +15,11 @@ This project is a comprehensive data analysis of Spotify's global top tracks, de
 ## 📊 Dashboard Visuals
 
 ### 1. Audio Feature Analysis
-*Analyzes the correlation between musical attributes like Energy, Valence, and Danceability in top-performing songs.*
+*Analyzes the correlation between musical attributes like Energy, Valence, and Danceability in top-performing songs of that year*
 ![Page 1](Page_1.jpg)
 
-### 2. Historical Trends & BPM Shift
-*Visualizes how listener preferences and song tempos (BPM) have evolved over the years.*
+### 2. Wrapped Section
+*Data about top 10 songs of that year in a Spotify Wrapped style demographic*
 ![Page 2](Page_2.jpg)
 
 ---
